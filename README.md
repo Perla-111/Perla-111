@@ -2,24 +2,25 @@
 <h3 align="center">  </h3> -->
 <!-- <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" height = 100 width = 100/> -->
   <!-- src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" -->
-<img width = "35%" align="right" alt="PIC" height="350px" 
+<!-- <img width = "35%" align="right" alt="Pengiun hello gif" height="350px" 
   src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"
-  />
+  /> -->
 <div  align="left" > 
   <h3 > <u>Hello👋, I'm Kalyan Perla</h3>
   <h4> Frontend Developer | MERN Stack | System Design </h4>
 </div> 
   <hr/>
 
-<h4 align="left">🤝🏻 &nbsp;Connect with me:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/kalyan-perla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssa" height="25" width="30" /></a>
+<h4 align="left">🤝🏻 &nbsp; Connect with me:</h4>
+ <p align="left">
+&nbsp; &nbsp; &nbsp; &nbsp;
+   <a href="https://www.linkedin.com/in/kalyan-perla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssa" height="25" width="30" /></a>
   &nbsp;
 <a href="https://leetcode.com/u/kalyan-perla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aass" height="25" width="30" /></a>
 </p>
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 Tech Stack</h3>
 
 - ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
